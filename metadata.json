@@ -1,0 +1,5 @@
+{
+  "name": "Thieves' Guild Manager",
+  "description": "A comprehensive management tool for OSE-compatible Thieves' Guilds, featuring automated revenue calculation, expense tracking, monthly event simulation, and member management based on Todd Leback's 'A Guide to Thieves' Guilds'.",
+  "requestFramePermissions": []
+}
